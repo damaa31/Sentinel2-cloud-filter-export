@@ -142,5 +142,5 @@ MIT License. See `LICENSE` file for more details.
 
 If you use this script in your research or projects, please cite it as:
 
-> *Author (2025). Sentinel-2 Cloud-Free Export Script for Fire Monitoring. GitHub Repository.*  
-> [https://github.com/your-username/cloudfree-fire-export](https://github.com/your-username/cloudfree-fire-export)
+> *David San Martín Aguado (2025). Sentinel-2 Cloud-Free Export Script for Fire Monitoring. GitHub Repository.*  
+> [https://github.com/damaa31/Sentinel2-cloud-filter-export.git]
