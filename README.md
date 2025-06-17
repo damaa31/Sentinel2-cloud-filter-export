@@ -76,7 +76,7 @@ Each export includes:
    - Your fire polygons asset path
 4. Run the script in a Python environment:
    ```bash
-   python export_cloudfree_images.py
+   python sentinel2_cloud_export.py
    ```
 
 ---
